@@ -11,7 +11,7 @@ ASSISTANT_ID = "asst_7SArgO1kADdwIEIDmeCiLbWl"
 client = openai.OpenAI()
 
 # Titulek aplikace
-st.title("Historický asistent – Alternativní dějiny")
+st.title("Predikce(Předpověď děje)")
 
 # Vysvětlení aplikace
 st.write("Zadejte otázku a zjistěte, jak by mohla vypadat historie jinak!")
